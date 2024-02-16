@@ -14,11 +14,12 @@ This website is powered by Obsidian, which means that the sidebar, to the left, 
 
 # 📰 Posts & Articles
 You can read my most recent story right here!
-📖 [Chronicles of Ned: Space, to breathe](<Writing/ChroniclesOfNed/Space, to Breathe/Start Here.md>) 🚀
+- 📖 [Chronicles of Ned: Space, to breathe](<Writing/ChroniclesOfNed/Space, to Breathe/Start Here.md>) 🚀
+- 📖 [Denoument 'wiki'](<Writing/Denouement/Denouement notes.md>)
 
 ⏭️ If you want posts, I got posts. They are in the side-bar over there on the left, also the recent posts are on the right... in the section marked 'Recent' - Which, I feel may be, a little on the nose, but I'm pretty sure you got this. 💋
 
-I made the Denouement Notes (a sort of wiki) public, if you are interested.
+
 
 # 🔗Here are some various links
 - 📚 My Books ⬅️ *I write!*

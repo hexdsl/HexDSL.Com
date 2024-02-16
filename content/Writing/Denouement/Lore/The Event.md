@@ -1,7 +1,9 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 `to be filled`
