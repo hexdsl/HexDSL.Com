@@ -1,6 +1,7 @@
 *Some writers finish their project and they KNOW it's a masterpiece. Some of us write Chronicles of Ned and hope no one notices.* 🤣
 
-![BookCover](<../Space, to Breathe/Files/Ned1 - space to.jpg>)
+![[Ned1 - space to.jpg|400]]
+
 
 You can use the sidebar to the left, or... 
 
