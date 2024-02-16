@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2023-07-07
----
+
 📆 Post date: 07-07-2023 
 
 I recently had the urge to play some old Megadrive (Genesis) games. I dusted off my old Retoflag GPI Gameboy style handheld and, well, just sort of blinked at it for a moment. It was big and chunky, like a Gameboy, which was great but it has over a minute boot up time, and takes AA batteries.

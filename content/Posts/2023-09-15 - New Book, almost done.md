@@ -1,8 +1,4 @@
----
-Class: Blog
-Status: Published
-Priority: Medium
----
+
 📆 Post date: 15-09-2023 
 ![[Files/NandH_Almost_Header.png]]
 I realise that in recent months I have been less productive. This is because I have been deep in my writing hole. 

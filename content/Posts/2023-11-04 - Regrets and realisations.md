@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2nd November 2023
----
+
 📆 Post date: 2023-11-04 
 ![[Images/dadheader (1).jpg]]
 > [!info] WARNING!

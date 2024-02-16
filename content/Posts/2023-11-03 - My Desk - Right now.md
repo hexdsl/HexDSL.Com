@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: posted
-Priority: Medium
-Created: 3rd November 2023
----
+
 📆 Post date: 2023-11-03 
 ![[Images/MyDesk.jpg]]
 This is the second *'Whats on my desk'* post. The first was [[2023-08-12 - My Desk - Right now|This one.]] This is a series where I chronicle the ever changing landscape of my own desk, mostly, for me. 

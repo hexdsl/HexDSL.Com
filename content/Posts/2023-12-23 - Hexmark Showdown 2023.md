@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 23rd December 2023
----
+
 📆 Post date: 2023-12-23 
 ![[Files/Green Blue Simple Minimalist Travel Youtube Display Ad.png]]
 Merry Christmas one and all. This year due to time restrictions, my friend and I were not able to have a script showdown, like last year. 

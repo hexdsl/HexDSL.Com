@@ -1,8 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
----
+
 📆 Post date: 01-08-2023 
 
 ## What's Happening?

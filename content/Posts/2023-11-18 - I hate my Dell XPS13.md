@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 18th November 2023
----
+
 📆 Post date: 2023-11-18
 ![[Files/mac_header.jpg]]
 I have an XPS13. It is a constant source of rage and misery. So much so, that I have ordered a MacBook air, in hopes that I can finally have the workflow that I originally wanted. 

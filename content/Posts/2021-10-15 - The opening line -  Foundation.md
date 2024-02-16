@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2021-10-15
----
+
 📆 Post date: 15-10-2021 
 
 There are two opening lines in Isaac Asimov's Foundation. The first is the extract from the encyclopedia Galactica (the fictional book that chronicles the universe. Asimov uses it to fill in the gaps for the reader) and then the actual first "in universe" line.

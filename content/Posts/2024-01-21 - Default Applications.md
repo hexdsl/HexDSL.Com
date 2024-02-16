@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 21st January 2024
----
+
 📆 Post date: 2024-01-21 
 ![[Files/software-i-use.jpg]]
 After seeing this, [Hemispheric Views - App Defaults](https://defaults.rknight.me) I decided to list my own defaults, because its a good snapshot of what I use right now. 

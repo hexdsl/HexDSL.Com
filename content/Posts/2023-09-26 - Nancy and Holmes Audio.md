@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 26th September 2023
----
+
 📆 Post date: 2023-10-03 
 ![[Files/NandH_Audiobook.jpg]]
 *-- COMING SOON --* 

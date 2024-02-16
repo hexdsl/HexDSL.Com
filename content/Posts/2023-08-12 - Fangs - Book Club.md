@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2023-08-12
----
+
 
 📆 Post date: 12-08-2023 
 

@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2020-10-20
----
+
 
 📆 Post date: 20-10-2020
 

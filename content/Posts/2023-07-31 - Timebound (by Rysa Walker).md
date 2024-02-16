@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2023-07-31
----
+
 📆 Post date: 31-07-2023 
 
 # As spoiler free as I am able to be.

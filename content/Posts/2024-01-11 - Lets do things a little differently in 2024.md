@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 11th January 2024
----
+
 📆 Post date: 2024-01-11 
 ![[Files/Blue Sand White Beach Simple Watercolor Etsy Shop Banner.jpg]]
 I go back and forth on subscription models. They seem like good ways of paying for services which could not be sustained without regular revenue. At the same time they are a monetary burden on my wallet and something, which I fear, I have become far too comfortable with. 

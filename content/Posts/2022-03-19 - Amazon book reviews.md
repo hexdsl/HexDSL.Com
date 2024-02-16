@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 2022-03-19
----
+
 📆 Post date: 19-03-2022 
 
 I know this sounds like an odd question and more of a tweet/toot than a blog post, but seriously, what happens in people’s brains when they go to write an amazon book review?

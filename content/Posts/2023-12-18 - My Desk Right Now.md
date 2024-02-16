@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 18th December 2023
----
+
 
 📆 Post date: 2023-12-18 
 ![[Images/MyDesk.jpg]]

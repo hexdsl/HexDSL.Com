@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 7th October 2023
----
+
 📆 Post date: 2023-10-14 
 ![[Files/Copy of Colorful Photo Aesthetic Travel Blog Twitter Header.png]]
 My new book, 'Nancy & Holmes' is finished. I am just waiting on Amazon to do some checks, then I will press the "Release" button. 

@@ -1,8 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
----
+
 📆 Post date: 26-08-2023 
 ![[Files/obsidian-plugins-header.jpg]]
 # Plugins! 

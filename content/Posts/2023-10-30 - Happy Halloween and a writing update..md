@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: posted
-Priority: Medium
-Created: 30th October 2023
----
+
 📆 Post date: 2023-11-06 
 ![[Images/happyHalloween.jpg]]
 I wanted to take a moment to wish you all a happy Halloween!

@@ -1,9 +1,4 @@
----
-Class: Blog
-Status: Not_set
-Priority: Medium
-Created: 10th December 2023
----
+
 📆 Post date: 2023-12-10 
 ![[Files/why don't you .png]]
 I get a lot of email, comments, DMs and smoke signals that all seem to have some incorrect assumptions about me, my workflow and my needs. So much so, that I am writing this, with the intent of just linking it to people in the future.
