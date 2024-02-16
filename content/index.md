@@ -22,7 +22,7 @@ I made the Denouement Notes (a sort of wiki) public, if you are interested.
 - 📚 My Books ⬅️ *I write!* 
 - 🦠 Micro Blog|Micro Blog ⬅️ Fun talking to myself
 - 😘 About HexDSL|About Hex ⬅️OMG! That's me! 
-- 🦩 [[socials.md]]  Socials ⬅️ Discord and Email... really, that's is.
+- 🦩 [[socials]]  Socials ⬅️ Discord and Email... really, that's is.
 
 ## 🌃 My current priorities
 1. ✍️ writing Denouement Part 3. 
