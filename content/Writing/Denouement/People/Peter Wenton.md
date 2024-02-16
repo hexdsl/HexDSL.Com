@@ -1,5 +1,4 @@
 ---
-title: Denouement
 draft: false
 tags:
   - writing

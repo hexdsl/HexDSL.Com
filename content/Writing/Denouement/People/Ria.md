@@ -1,7 +1,10 @@
 ---
-Class: Character
-Type: Main 
-Status: Used
+draft: false
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
+  - Feline
 ---
 
 **♻️Age**:  26

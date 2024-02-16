@@ -1,5 +1,4 @@
 ---
-Class: Character
 Type: Aux
 Status: Used
 ---
