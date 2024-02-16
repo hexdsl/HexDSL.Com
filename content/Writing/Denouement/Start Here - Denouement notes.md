@@ -1,9 +1,15 @@
 ---
-Class: Menu
-Type: Sci-Fi
+title: Social Media
+draft: false
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
-![[Files/Denouement1-Header.jpg]]
-Denouement is the name of my second book and the first in the *Denouemeverse* science-fiction setting. 
+
+![Denouement header](Denouement1-Header.jpg)
+
+Denouement is the name of my second book and the first in the Denouemeverse science-fiction setting. 
 
 This section contains my live(ish) 'wiki' for the Denouement continuity. 
 
@@ -21,12 +27,4 @@ This also contains unused plot points and stubs. The intent for this is to be us
 [[Story notes/Tales of 1|Tales of 1]] - Week
 [[Story notes/Tales of 2|Tales of 2]] - Of Gods and Vampires *(writing)*
 # Lore
-Aside from the things listed here, you may find extra entries in the side bar. Things on this list are part of the currently published works. If you click that side bar you are into the work-in-progress-mad-ramblings section and that's on you.
-
-- [[People/List of Characters|List of Characters]]
-- [[Races and factions/Factions and races|Factions and races]]
-- [[Places/List of Locations|List of Locations]]
-- [[Tech/List of Technolgy|List of Technolgy]]
-- [[Ships/List of Ships|List of Ships]]
-
-#dashboard #denouement #Denouemeverse
+You will find lots of entries in the side bar. If you do click that side bar you are into the work-in-progress-mad-ramblings section and that's on you.
