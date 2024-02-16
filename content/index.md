@@ -19,8 +19,6 @@ You can read my most recent story right here!
 
 ⏭️ If you want posts, I got posts. They are in the side-bar over there on the left, also the recent posts are on the right... in the section marked 'Recent' - Which, I feel may be, a little on the nose, but I'm pretty sure you got this. 💋
 
-
-
 # 🔗Here are some various links
 - 📚 My Books ⬅️ *I write!*
 - 🦠 [Micro Blog](https://getupnote.com/share/notes/AUiZ14tRv0anStjXFyr6Xg51TGB3/3d37c69e-e152-4dee-a1cb-e63fd10b8c94) ⬅️ Fun talking to myself
