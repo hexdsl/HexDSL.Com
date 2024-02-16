@@ -20,7 +20,7 @@ I made the Denouement Notes (a sort of wiki) public, if you are interested.
 
 # 🔗Here are some various links 
 - 📚 My Books ⬅️ *I write!* 
-- 🦠 Micro Blog|Micro Blog ⬅️ Fun talking to myself
+- 🦠 [Micro Blog](https://getupnote.com/share/notes/AUiZ14tRv0anStjXFyr6Xg51TGB3/3d37c69e-e152-4dee-a1cb-e63fd10b8c94)  Micro Blog|Micro Blog ⬅️ Fun talking to myself
 - 😘 About HexDSL|About Hex ⬅️OMG! That's me! 
 - 🦩 [[Socials]] ⬅️ Discord and Email... really, that's is.
 
