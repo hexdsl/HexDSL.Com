@@ -1,0 +1,11 @@
+Below is a list of technology used throughout the denouement works.
+- [[Blue-Energy]]
+- [[Blue-Shield]]
+- [[Blue-Tube]]
+- [[Elder-Tongue (Language)]]
+- [[Neural Actuation system]]
+- [[Personal-shield]]
+- [[TD-Drive]]
+- [[Thrust-Panel]]
+- [[TLC Module]]
+- [[Cleansing lamp]]
