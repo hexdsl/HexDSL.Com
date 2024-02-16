@@ -1,14 +1,23 @@
 ---
-Class: Character
-Type: Aux
-Status: Used
+title: Denouement
+draft: false
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
+  - Follower
 ---
+
 **♻️Age**: Appears late 30s
+
 👾**Species:** [[../Races and factions/Elf (Race)|Elf (Race)]]
+
 🏅**Allegiance**: [[../Races and factions/Followers (Faction)|Followers (Faction)]]
+
 **🎲Role in Story**:  Runs Follower temple in [[../Places/Canto (Central Prime)|Canto (Central Prime)]] which is actually the location of the more active Follower force
 
 **ℹ️ Description**: 
+
 * **Gender**: Male
 * **Height**: Mid
 * **Complexion**: Very Dark skinned for an elf.
@@ -20,11 +29,11 @@ Status: Used
 * **Skills**: Standard Elf - Good story teller 
 
 **💼Occupation**: 
+
 **🎺Habits/Mannerisms**:
+
 **🧨Personality**: 
 
 # 🏛️Background
 
 # 🗒️Notes
-
-#character 

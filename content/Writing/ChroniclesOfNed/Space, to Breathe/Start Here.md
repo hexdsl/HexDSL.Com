@@ -1,3 +1,10 @@
+---
+title: Space, to Breathe (CoN1)
+draft: false
+tags:
+  - Writing
+  - Ned
+---
 *Some writers finish their project and they KNOW it's a masterpiece. Some of us write Chronicles of Ned and hope no one notices.* 🤣
 
 ![[Ned1 - space to.jpg|400]]
