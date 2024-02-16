@@ -5,12 +5,12 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "🌃 HexDSL.com",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: {
-      provider: "plausible",
+      provider: 'google', tagId: 'G-KBLKJZTYR0',
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "hexdsl.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
