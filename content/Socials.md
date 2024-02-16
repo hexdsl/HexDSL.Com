@@ -8,9 +8,9 @@ I have tried with this social media stuff but honestly, at this point I have rea
 - [Discord](https://discord.hexdsl.com) - Where I chat with people!
 - [[Micro Blog|Obsidilog]] - Where I talk to myself. *<- Honestly, I enjoy doing this far more than I thought I would* 🥰
 
-![TT Lofo](<Trendy Retro.png>)
+![TT Lofo](<Trendy Retro.png>=250x)
 **[If you are looking for the Trendy Talk Podcast, click this line!](https://trendy.hexdsl.com)**
 
 That's about it really. *Oh* and you should email me at, hexdsl@gmail.com if you want. 
 
-#website #SocialMedia 
+#website #SocialMedia  
