@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Pipelined #
 The car rolled to a stop, Ned at the wheel.
 

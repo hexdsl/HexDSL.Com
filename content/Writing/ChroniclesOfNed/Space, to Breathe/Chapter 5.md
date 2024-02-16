@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Ultrarefined #
 Darkness was drawing closer, and Monday really needed to piss. After some vocalising of this issue, it was agreed that they would stop at the next place that seemed like it had a 'piss hole,' as Leon described it; and somewhere they could get food. They were about an hour more away from Startlington, and Viking had confirmed thrice more that he did, in fact, require feeding.
 

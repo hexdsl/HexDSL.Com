@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Envisioned #
 After a few seconds of ethereal wind-chime sounds, Viking appeared in the middle of the room in a flurry of lights. He was looking around, quite entertained by the pretty colours.
 

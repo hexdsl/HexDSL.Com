@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Misbuttoned #
 "Viking, you bloody boulder! How are you so calm?" Ned ranted, hands on head, pulling at his hair in a wave of anxiety.
 

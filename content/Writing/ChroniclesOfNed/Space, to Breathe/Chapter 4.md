@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Unchaperoned #
 "Do you think he's dead?" asked Ned, as he looked through the front of the car.
 

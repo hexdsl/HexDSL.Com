@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Unconcernedness #
 Ned pulled the sword out of his leg and tossed it onto the floor. He managed to stay upright. Somehow, keeping himself standing, despite having no experience with getting stabbed. And, he noted, looking pretty cool at the same time.
 

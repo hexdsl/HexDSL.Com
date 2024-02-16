@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Deadpanned #
 The three of them briskly walked down the hill, away from the coffee shop, and the disturbance, which would, Miscx informed them, most likely result in a police drone visit.
 

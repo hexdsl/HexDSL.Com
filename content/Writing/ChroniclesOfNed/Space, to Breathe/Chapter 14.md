@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Overturned #
 The music from the back room of the Trashcan was loud enough that it was leaking into the galley bar at the front of the building. Ned had already had enough of it and decided it was not worth going back there to find a toilet. Instead, he announced to his friends that he was too old for bad rock music and dancing around like a 'fucking child.' He then proceeded to fall down as he tried to leave the table.
 

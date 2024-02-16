@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Wakened #
 They were in something which Ned was sure would have had a name like 'docking area' or 'shuttle long stay,' but it looked suspiciously like a car park to him. There were no teams of people guarding anything or coming to refill the fuel, no engineers or drones in sight. There were, however, three more van sized shuttles and something that looked like a sports car without any wheels parked up next to them. The entire area was about as large as a football pitch, and the only sign in sight had a neon six on it. Maybe it was car park six, Ned concluded.
 

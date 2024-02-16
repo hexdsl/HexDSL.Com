@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Refashioned #
 Viking refused to explain a thing until he had finished his large, all meat baguette. This took far less time than anyone expected.
 

@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Determinedness #
 It was the sound of gunfire that first woke Ned from his slumber. As he opened his eyes, the light was blinding. As things came into focus, he began to realise the worst possible thing had happened. He had, at some point in his drunken daze, got confused and instead of stumbling to his flat, he had ended up at his father's house.
 

@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Resignednesses #
 The door was being knocked. No one knocked on the door in that way. Leon knew it was the knock of Ned. He looked around his building site of a house and reached out for the dark glasses on top of a pile of bricks. He put them on and then slid into his leather jacket before answering the door. God forbid anyone should see him under-dressed. The idea of being seen without his 'cool' worried him a great deal.
 

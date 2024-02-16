@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Jettisoned #
 Ned strolled out of the tent with a belly full of the best toast he had ever eaten. He had also drank the best tasting water he had ever encountered.
 

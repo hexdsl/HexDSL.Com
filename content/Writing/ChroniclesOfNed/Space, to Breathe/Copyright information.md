@@ -1,5 +1,13 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 **Title:** Chronicles of Ned: Space, to Breathe
+
 **Author:** David "HexDSL" Smith
+
 *Copyright © 2024 by HexDSL (David JM Smith)*
 *All rights reserved.*
 

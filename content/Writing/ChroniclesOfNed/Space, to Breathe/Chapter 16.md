@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Coxswained #
 Ned was not a creature who was built for running. Neither was Viking. He was built for hitting and lifting, not sprinting. They were both panting like exhausted dogs, just moments after the marathon had started.
 

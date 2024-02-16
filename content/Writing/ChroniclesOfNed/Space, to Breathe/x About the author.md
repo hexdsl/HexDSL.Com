@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 HexDSL is a creature of the internet that has existed for many years now. Hex enjoys Hallmark mysteries, trash science-fiction and old detective stories. All of which are reflected his writing with stunning regularity. He currently lives in England, the Midlands, to be overly specific. He tries hard to be a good human. He intends to write much more in the future. As well as talk about things endlessly on his Website: https://hexdsl.com *(That's here, if you are reading here. If not, you stole it and respect that a great deal!)*
 
 He wrote the book that's attached to this post, mostly in Scrivener. He typed the words out on a Laptop *(An M2 MacBook Air, with 16GB of ram because, no Apple, 8GB is not enough!)*

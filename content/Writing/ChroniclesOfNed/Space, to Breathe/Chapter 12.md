@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Maintained #
 Miscx took Ned to a lift a little way from where they were talking.
 

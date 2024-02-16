@@ -1,3 +1,9 @@
+---
+draft: false
+tags:
+  - writing
+  - CoN
+---
 # Contravened #
 Ned grabbed his small friend by the scruff of his neck and pulled him out of the blue water. Dropping him on the purple grass.
 
