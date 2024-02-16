@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       "YouTube": "https://www.youtube.com/hexdsl",
-      "Join my Discord": "https://discord.com/invite/37GYAhj",
+      "Join my Discord": "https://discord.hexdsl.com",
     },
   }),
 }
