@@ -1,5 +1,9 @@
 ---
 title: Social Media
+draft: false
+tags:
+  - website
+  - SocialMedia
 ---
 ![Social Media Banner](SocialMedia.png)
 I have tried with this social media stuff but honestly, at this point I have realised that even a toe dipped in the water makes me feel like I've wasted time. I have resolved that I am no longer engaging with it. 
@@ -12,5 +16,3 @@ I have tried with this social media stuff but honestly, at this point I have rea
 **[If you are looking for the Trendy Talk Podcast, click this line!](https://trendy.hexdsl.com)**
 
 That's about it really. *Oh* and you should email me at, hexdsl@gmail.com if you want. 
-
-#website #SocialMedia  
