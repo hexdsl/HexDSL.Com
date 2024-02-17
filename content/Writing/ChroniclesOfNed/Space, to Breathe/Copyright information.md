@@ -3,19 +3,21 @@ draft: false
 tags:
   - writing
   - CoN
+date updated: 2024-02-17 11:22
 ---
+
 **Title:** Chronicles of Ned: Space, to Breathe
 
 **Author:** David "HexDSL" Smith
 
-*Copyright © 2024 by HexDSL (David JM Smith)*
-*All rights reserved.*
+_Copyright © 2024 by HexDSL (David JM Smith)_
+_All rights reserved._
 
-*No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except as permitted by UK copyright law. For permission requests, contact HexDSL@gmail.com
+*No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except as permitted by UK copyright law. For permission requests, contact <HexDSL@gmail.com>
 
 The story, all names, characters, and incidents portrayed in this production are fictitious. No identification with actual persons (living or deceased), places, buildings, and products is intended or should be inferred.
 
-*Book cover by HexDSL*
-*First edition, 2024*
+_Book cover by HexDSL_
+_First edition, 2024_
 
 [Itch Store for DRM free](https://hexdsl.itch.io/)

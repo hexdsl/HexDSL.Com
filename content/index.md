@@ -5,12 +5,11 @@ tags:
   - website
   - index
 ---
-
 ![HexDSL Banner](WebBanner.jpg)
 
-Hi, I'm HexDSL. I post about all sorts of things. There really is no theme. I post about things I think about and a lot of it is random rambling and book/writing talk. If you are here for my social links or a discord invite, please click on [[Socials]] for all that stuff. If you have a comment question, then please email me or use Discord. I answer mail that comes to [hexdsl@gmail.com](mailto:hexdsl@gmail.com), I welcome writing thoughts and questions.
+Hi, I'm HexDSL. I post about all sorts of things. There really is no theme. I post about things I think about and a lot of it is random rambling and book/writing talk. If you are here for my social links or a discord invite, please click on [[Socials]] for all that stuff. If you have a comment question, then please email me or use Discord. I answer mail that comes to [hexdsl@gmail.com,](mailto:hexdsl@gmail.com) I welcome writing thoughts and questions.
 
-This website is powered by Obsidian, which means that the sidebar, to the left, is very intractable and the site wide search is also very responsive. I encourage you to use that side bar for older posts, as there is much more than the list below may indicate.
+This website is powered by [Quartz](https://quartz.jzhao.xyz), which means that the sidebar, to the left, is very intractable and the site wide search is also very responsive. I encourage you to use that side bar for older posts, as there is much more than the list below may indicate.
 
 # 📰 Posts & Articles
 You can read my most recent story right here!

@@ -23,17 +23,17 @@ This also contains unused plot points and stubs. The intent for this is to be us
 
 ## Main
 
-[[Story notes/Denouement 1|Denouement 1]] - Echoes of the goddess
+[[Denouement 1]] - Echoes of the goddess
 
-[[Story notes/Denouement 2|Denouement 2]] - In Her we Trust
+[[Denouement 2]] - In Her we Trust
 
-[[Story notes/Denouement 3|Denouement 3]] - A Thousand years North *(writing)*
+[[Denouement 3]] - A Thousand years North *(writing)*
 
 ## Short story collections
 
-[[Story notes/Tales of 1|Tales of 1]] - Week
+[[Tales of 1]] - Week
 
-[[Story notes/Tales of 2|Tales of 2]] - Of Gods and Vampires *(writing)*
+[[Tales of 2]] - Of Gods and Vampires *(writing)*
 
 # Lore
 
