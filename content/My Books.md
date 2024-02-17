@@ -26,7 +26,3 @@ Currently containing 3 books
 
 - [Itch Store for DRM free](https://hexdsl.itch.io/hunters-garden)
 - [Amazon.co.uk](https://www.amazon.co.uk/dp/B09NMDSQ1K)
-
----
-
-#Books

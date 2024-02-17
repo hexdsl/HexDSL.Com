@@ -2,6 +2,7 @@
 draft: false
 tags:
   - website
+  - HexDSL
 ---
 
 HexDSL is a creature of the internet that has existed for many years now. Hex enjoys video games, trash science fiction, and old detective stories. All of which appear in his writing with stunning regularity.
@@ -9,6 +10,7 @@ HexDSL is a creature of the internet that has existed for many years now. Hex en
 He currently lives in England, the Midlands, to be overly specific. He has a daughter who is far cooler than he has ever been. He tries hard to be a good human. He intends to write much more in the future. As well as talk about things endlessly on his website (this one)
 
 ![[HexDSL_PixelBack.jpg|500]]
+
 He writes books mostly at night on his ageing laptop. He listens to a lot of Synthwave music when he writes, and it may have sent him a bit strange.
 
 You can email him by sending electronic messages to [HexDSL@gmail.com](mailto:hexdsl@gmail.com) he reads all and responds to lots, but don’t get mad if he fails to get back to you. Also, there are his [[Socials|Socials]].
@@ -44,5 +46,3 @@ People always ask about my choices for reasons I don’t understand:
       - Xbox _Series_ Controller.
 
 Thanks all
-
-#about #hexdsl
