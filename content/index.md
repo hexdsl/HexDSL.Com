@@ -35,4 +35,5 @@ If you have read any of the Denouement books that I have written, you may find t
 2. 💼 Working 40 hours a week at my *actual* job.
 4. 🥰 Be grateful for all the wonderful things in life, every day!
 
-Thanks for reading 👋
+🛜 I have an [RSS FEED](https://hexdsl.com/index.xml)
+Thanks for reading 👋 
