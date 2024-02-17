@@ -1,9 +1,13 @@
+---
+draft: false
+tags:
+  - website
+---
 
-
-📆 Post date: 24-07-2023 
+📆 Post date: 24-07-2023
 Originally posted on reddit - [Links. For print.](https://www.reddit.com/r/groff/comments/agkgqn/links_for_print/)
 
-I was asked about embedding link into groff documents a few weeks ago, I wrote [this](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/) outlining how that is accomplished and while its still the ideal way to deal with *clickable* links there is a better way of dealing with links for printed documents (my use case)
+I was asked about embedding link into groff documents a few weeks ago, I wrote [this](https://www.reddit.com/r/groff/comments/ac7tkb/clickable_web_links_in_your_final_pdf/) outlining how that is accomplished and while its still the ideal way to deal with _clickable_ links there is a better way of dealing with links for printed documents (my use case)
 
 The result of this code will be TEXT(URL) the URL is (by default) is a very well defined Currier like font
 
@@ -23,7 +27,7 @@ Now we use the .URL operator to show firstly the URL then a space and the name o
 .URL http://www.hexdsl.com/ HexDSL
 ```
 
-You can do this at any point in your document, as long as the .URL is UPPER CASE (mostly this is easy to remember, if you are calling commands that a are built into groff then we use lower case and UPPER CASE for Macro set commands, okay, that's not *that* easy but it helps me remember)
+You can do this at any point in your document, as long as the .URL is UPPER CASE (mostly this is easy to remember, if you are calling commands that a are built into groff then we use lower case and UPPER CASE for Macro set commands, okay, that's not _that_ easy but it helps me remember)
 
 Here is a basic example document outlining all of this in one go (as well as couple of other things that have already been covered on [/r/groff](https://www.reddit.com/r/groff))
 
@@ -53,17 +57,14 @@ Thank you for reading this!
 
 You can read more about this as well as get a groff core command reference by checking the man page on your computer
 
-``` 
+```
 man groff
 ```
 
 If you are not running GNU/Linux or BSD then please install it. Then try the command again.
 
-
 ---
-
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #groff 

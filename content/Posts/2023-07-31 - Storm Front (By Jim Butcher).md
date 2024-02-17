@@ -1,6 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-
-📆 Post date: 31-07-2023 
+📆 Post date: 31-07-2023
 
 # Storm Front (Dresden Files 1) by Jim Butcher.
 
@@ -34,10 +38,7 @@ Given how strong this one was, I can't see a way that I won't be able to read th
 
 I really like detective stories but I loathe police stories. I also have a love of stories about magic (I know right, the Wiccan loves magic as a theme. Way to be a stereotype.) If you feel like this resonates with you. Give it a go. The writing won't let you down. I can say that for sure.
 
-
 ---
 
 > [!info] Note
 > This Was written by HexDSL, if this was linked to you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #Jim_Butcher #book_club 

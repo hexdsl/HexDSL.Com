@@ -1,12 +1,11 @@
 ---
 draft: false
-date: 2024-02-17
 tags:
   - website
 ---
 
 📅 Date: 2024-02-10
-![[Files/NedBanner.jpg]]
+![[NedBanner.jpg]]
 I have finished my most recent story: The Chronicles of Ned: Space, to Breathe. It's the story of Ned, and his exceptionally stupid friends. Ned is a magnet for madness, drama and oddity and in this, the first instalment he accidentally takes a trip to space, loses his car and meets a bug lady.
 
 _This is a lot shorter than most of my work and, as something of an experiment, I am making it freely available right here._

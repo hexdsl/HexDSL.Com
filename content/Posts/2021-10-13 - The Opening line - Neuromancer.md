@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 13-10-2021
 
@@ -42,5 +46,3 @@ We know all of this because of one fucking line. We know this because William Gi
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #neuromancer #book_club 

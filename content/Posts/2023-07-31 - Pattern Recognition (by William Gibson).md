@@ -1,6 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-
-📆 Post date: 31-07-2023 
+📆 Post date: 31-07-2023
 
 # Yes, I am aware of Mr Gibson's opus.
 
@@ -27,7 +31,7 @@ She lost her father in the 9/11 attack. And I do mean "lost" as in, he went miss
 > [!info] Note
 > This Was written by HexDSL, if this was linked to you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #William_Gibson 
+#Blog #William_Gibson
 
 She has an odd allergy like reaction to brand labels and trade marks. It is assumed that this sensitivity aids her in her job. Allowing her to see through the fake and embrace the authentic. Interesting concept that I really liked.
 
@@ -60,5 +64,3 @@ If you have already drank from the well of Gibson, and liked it. Yes. Read this.
 Gibson's effortless cool and affinity for the digital makes me wonder why he doesn't go way more sci-fi than this. It's ultimately a mystery novel with a lot of technology. I want him to dig deep into the future and show me something wonderful.
 
 I won't be reading the next in this series but I had a wonderful time with this little dip.
-
-#books #William_Gibson #book_club 

@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 26-10-2020
 
@@ -6,13 +10,13 @@
 
 # For Emerilia!
 
-I accept that at this point, I'm hooked on this crap. Honestly. Its like the author is manipulating me some how. I know its easy reading LitRPG crap. But... God, I love these characters. I read this one, the second volume of the Emerilia series in basically two sittings. Its shorter than the first one but the right amount of words for the story that is told. 
+I accept that at this point, I'm hooked on this crap. Honestly. Its like the author is manipulating me some how. I know its easy reading LitRPG crap. But... God, I love these characters. I read this one, the second volume of the Emerilia series in basically two sittings. Its shorter than the first one but the right amount of words for the story that is told.
 
 This volume tells the story of the Party (now known as Party Zero by their Guild, the Stone Raiders) making the journey to Benvari Mountain so that Dave can complete his training as a Master Smith.
 
 The early portion of the book introduces Suzy, Daves assistant from when he was Austin, back on Earth. She has ventured into the game after realising that there was something up with his "shell" on Earth. She knew he played and saw his avatar on a live stream (ref first books fucking epic ending) while she could see him in "real life" figuring something was amiss. She logged in.
 
-Suzy quickly gets clued into events and becomes Emerilia's second "Bleeder" (The shitty term for someone who knows that its not a game and doesn't need to return to Earth, ever.) She quickly starts levelling up and integrating into the world. The Party set off to Benvari along with two human form dragons and an AI that helped bob create the world given physical form. Yeah. It's still fucking stupid. Like the first novel this one gets by on its characters who are all lovely people who are constantly trying to do the right thing. 
+Suzy quickly gets clued into events and becomes Emerilia's second "Bleeder" (The shitty term for someone who knows that its not a game and doesn't need to return to Earth, ever.) She quickly starts levelling up and integrating into the world. The Party set off to Benvari along with two human form dragons and an AI that helped bob create the world given physical form. Yeah. It's still fucking stupid. Like the first novel this one gets by on its characters who are all lovely people who are constantly trying to do the right thing.
 
 There's also some time spent fleshing out the Stone Raiders and making sure you know they are going to be a large part of the story going forward. This is a wise move and they are missing from most the book. Off on a different part of the world while Dave and the party study and train.
 
@@ -30,5 +34,3 @@ So, yeah, not much to say about this one. I can see a lot of readers bouncing on
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #book_club #book 

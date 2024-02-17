@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 24-07-2023
 
@@ -11,7 +15,7 @@ So I went and found out!
 The Documentation should be found in a PDF file called 'pdfmark.pdf' in '/usr/share/doc/groff??????/' - its worth knowing that on Antergos/Arch Linux the documentation folder was missing until I moved to the 'groff-git' package (I have no idea why!)
 
 Firstly you must compile wit the '-pdfmark' flag (-ms -pdfmark -tbl etc..) and here is some working sample code (I have verified this as working! - however, unsure if this is related to the implementation but it was quite slow to load, maybe more due to Zathura/QuteBrowser)
-  
+
 ```
  .TL
 THIS IS THE TITLE! OMG TITLE!
@@ -32,4 +36,3 @@ Hope this helps. For more information please check the pdfmark.pdf file located 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #groff 

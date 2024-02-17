@@ -1,7 +1,13 @@
-![[../../Website/Images/Obsidian_dreams.png]]
+---
+draft: false
+tags:
+  - website
+---
+
+![[Obsidian_dreams.png]]
 I really Like Notion. I would go as far as saying that I love basically everything Notion does. Apart from one thing…
 
-![[../../Website/Images/notion_error.png|300]]
+![[notion_error.png|300]]
 Notion is online only, so this equation explains the issue:
 
 **`No internet connection = No notion.`**
@@ -39,5 +45,3 @@ Anyway, all this post is mostly just a way of saying, I made some videos that I 
 [Showing off some basic, cool Obsidian stuff (A pointlessly long video) - Anti content - YouTube](https://youtu.be/073yPGMw6HM)
 [Obsidian for writing novels - Writing things - YouTube](https://youtu.be/gUMU6LOggWE)
 [Obsidian Sync - How it works and how much it costs - YouTube](https://youtu.be/rhqasD6gxOw)
-
-#obsidian #Blog #software #productivity 

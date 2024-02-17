@@ -1,13 +1,18 @@
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 21-08-2020
 
 # Thou Art God.
 
-I have just finished it and I have *things* to say.
+I have just finished it and I have _things_ to say.
 
 ### Grok.
 
-The word "Grok" is the reason I read this book. The word Grok is taken to mean either "understand" or "know." You may have encountered this word if you spend any time with "high end" ass hats. You see, casually dropping a foreign word into conversation is the behaviour of the sorts of people who like the smell of their own farts. Adding a world from a made up language is a special kind of masturbation even by "fart sniffer" standards. Yet. Many shrivelled winkles of people think its a perfect thing to do. As you can *grok*, I am hostile towards this behaviour. Also. If you use the word you have bloody well better have read the damned book!
+The word "Grok" is the reason I read this book. The word Grok is taken to mean either "understand" or "know." You may have encountered this word if you spend any time with "high end" ass hats. You see, casually dropping a foreign word into conversation is the behaviour of the sorts of people who like the smell of their own farts. Adding a world from a made up language is a special kind of masturbation even by "fart sniffer" standards. Yet. Many shrivelled winkles of people think its a perfect thing to do. As you can _grok_, I am hostile towards this behaviour. Also. If you use the word you have bloody well better have read the damned book!
 
 Grok. A made up word. The only word of the Martian language that is actually explicitly used in this novel. The fact that some how its gotten into general usage by some basement dwelling freaks is astonishing to me not least because its meaning is at best vague. Do you have any friends who use "Smuf" on the regular? well, next time someone says "Grok" to me, I fully intend to reply with "Ah smuf, smurf, but I think smuf smuf smuf, then there is smuf to consider.... you grok? DO YOU SMUFING GROK THAT?"
 
@@ -93,7 +98,7 @@ The book meanders a LOT and a modern editor would have stripped it down quite a 
 
 There are some lines in this novel that are to say the least indelicate and the opinions one woman in the novel has about rape and it often being the fault of the victim are not okay. The writer is very wrong and is projecting shitty opinions even for a book from the 1960s. There are some moments where the motivations on the female characters lead me to wonder if Robert Heinlein has ever met one. But over all from the point of view of those in this story and the way the world was when it was written back in '61 I forgive a lot. You almost have to when reading old science fiction. The writers often think they are being edgy but are just being strange and shitty.
 
-Also, Mike is free from the human morality trappings but its continually said that he is "not a homosexual" maybe its because I'm reading this many *many* years after it was written but the books obsession with only putting your winkle into lady holes contradicts a lot of the Martian teaching in this book. Its a little odd. If Mike wants to be gay then that's fine. No one will care. At least not in "current year"
+Also, Mike is free from the human morality trappings but its continually said that he is "not a homosexual" maybe its because I'm reading this many _many_ years after it was written but the books obsession with only putting your winkle into lady holes contradicts a lot of the Martian teaching in this book. Its a little odd. If Mike wants to be gay then that's fine. No one will care. At least not in "current year"
 
 There are also moments where Mike seems to outright disrespect the women in his life (Calling them whores and such like) while everyone including those women respond as if he is being flattering. Quite odd. If this was supposed to portray a loving in-joke or banter it missed the mark for me.
 
@@ -115,10 +120,7 @@ I think I have some more specific thoughts about some of the things raised in th
 
 I will read again on day, I'm sure.
 
-
 ---
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #books 

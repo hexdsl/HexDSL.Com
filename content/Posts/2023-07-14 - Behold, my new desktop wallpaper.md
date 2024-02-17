@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 14-07-2023
 
@@ -14,18 +18,16 @@ The first wallpaper I ever recall using.
 
 A Very cool wallpaper from the 90s
 ![[Images/my new desktop wallpaper/inside_your_pc.jpeg|600]]
- 
+
 I loved this one, as a teenager.
 ![[Images/my new desktop wallpaper/Hackers-Movie-Wallpapers-8.jpg|600]]
 
 my old wallpaper  (my other screen is an ultrawide)
 ![[Images/my new desktop wallpaper/henry_upscaled_noborder.jpg|600]]
-  
+
 Thank you for your visit.
 
 ---
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #wallpaper #kermit #hackers #retro

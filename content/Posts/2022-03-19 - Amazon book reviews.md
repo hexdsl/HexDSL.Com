@@ -1,5 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-📆 Post date: 19-03-2022 
+📆 Post date: 19-03-2022
 
 I know this sounds like an odd question and more of a tweet/toot than a blog post, but seriously, what happens in people’s brains when they go to write an amazon book review?
 
@@ -32,4 +37,3 @@ Rant over – I’m sorry. Had to get that out of my system… Maybe I should ha
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #amazon #rant

@@ -1,5 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-📆 Post date: 15-10-2021 
+📆 Post date: 15-10-2021
 
 There are two opening lines in Isaac Asimov's Foundation. The first is the extract from the encyclopedia Galactica (the fictional book that chronicles the universe. Asimov uses it to fill in the gaps for the reader) and then the actual first "in universe" line.
 
@@ -49,10 +54,7 @@ Isaac Asimov is a master of story telling, from the first line he tells us more 
 
 If I live to be a hundred and write as many books, I'll never be half the story teller that Asimov is. Now, go and read Foundation (and maybe skip that strange unrelated TV show of the same name.)
 
-
 ---
 
 > [!info] Note
 > This Was written by HexDSL, if this was linked to you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #isaac_asimon #books 

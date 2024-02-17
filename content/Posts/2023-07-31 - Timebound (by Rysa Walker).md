@@ -1,5 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-📆 Post date: 31-07-2023 
+📆 Post date: 31-07-2023
 
 # As spoiler free as I am able to be.
 
@@ -42,4 +47,3 @@ I enjoy young adult fiction (Teen fiction) and find it relaxing to read while en
 > [!info] Note
 > This Was written by HexDSL, if this was linked to you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #Rysa_Walker #book_club 

@@ -1,6 +1,10 @@
+---
+draft: false
+tags:
+  - website
+---
 
-
-📆 Post date: 12-08-2023 
+📆 Post date: 12-08-2023
 
 > Fangs (by Sarah Andersen)
 
@@ -22,5 +26,3 @@ Literally cant think of a better way to spend £7.
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #books #book_club 

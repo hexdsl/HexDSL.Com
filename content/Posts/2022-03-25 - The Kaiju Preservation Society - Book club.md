@@ -1,3 +1,8 @@
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 25-03-2022
 
@@ -11,15 +16,11 @@ I enjoyed it so much that I started an instant re-read. Not since I read the Mag
 
 Scalzi is a writer who I always enjoy. He had a way with dialogue that just hooks me and when he’s writing something with a less serious tone, he is even better.
 
-I cannot recommend it enough 
+I cannot recommend it enough
 
 Things to know – It’s a short book. It’s not out in paper back either so if you read physical, expect to spend over a tenner on it. Obviously, its far cheaper in digital form and the audio book, sadly, is read by Will ‘110% all the time’ Wheaton who is not someone who’s performance I enjoy, which is why I own the audible version, and one chapter in ordered the hard back. Your Wheaton tolerance may vary. (To be clear, he seems like an okay dude, I just don’t enjoy his style of reading)
-
-[[../Book notes/The Kaiju Preservation Society|The Kaiju Preservation Society]]
 
 ---
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #book_club 

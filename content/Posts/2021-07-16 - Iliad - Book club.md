@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 16-07-2021
 
@@ -8,7 +12,7 @@ I don't have the classical education required to actually write a review of the 
 
 With this in mind, I'm talking about my experience with the work and not for a moment trying to discuss the work like I know what I'm talking about. There's a Wikipedia link for hat.
 
-[https://en.wikipedia.org/wiki/Iliad](https://en.wikipedia.org/wiki/Iliad) The Iliad on Wikipedia (Web)
+<https://en.wikipedia.org/wiki/Iliad> The Iliad on Wikipedia (Web)
 
 The Iliad appears in a lot of things it gets referenced in all sorts of classical science fiction works including the classic (and terrible) TV show 'Time Tunnel.' I feel like older science fiction writers were passively obsessed with it. I'm not sure why but I see referenced to it in everything including Asimov and Bester. It goes right through to the modern day with TV shows like The Hundred. This is the reason I decided to slog though a book that I had no direct interest in.
 
@@ -24,5 +28,3 @@ While its a work of fantasy with a specific setting that predates the writing it
 
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
-
-#Blog #iliad #book_club 

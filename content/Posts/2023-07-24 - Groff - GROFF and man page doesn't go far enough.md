@@ -1,4 +1,8 @@
-
+---
+draft: false
+tags:
+  - website
+---
 
 📆 Post date: 24-07-2023
 
@@ -13,9 +17,11 @@ info groff
 ```
 
 Its a great book with a bad interface but you can
+
 ```
 info groff > A FILE
 ```
+
 and then enjoy it via VIM
 
 helps this helps some people like it helped me :)
@@ -25,4 +31,3 @@ helps this helps some people like it helped me :)
 > [!info] Note
 > This Was written by HexDSL, if this was liked by you, you can email him at [Hexdsl@gmail.com](mailto:hexdsl@gmail.com) or use [this link](https://discord.hexdsl.com) to join Discord
 
-#Blog #groff

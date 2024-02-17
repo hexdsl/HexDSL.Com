@@ -35,6 +35,11 @@ This also contains unused plot points and stubs. The intent for this is to be us
 
 [[Tales of 2]] - Of Gods and Vampires *(writing)*
 
-# Lore
+# How to read! 
+Use the side bar, on the left to explore the folder structure. 
 
-You will find lots of entries in the side bar. If you do click that side bar you are into the work-in-progress-mad-ramblings section and that's on you.
+You will find lots of entries in the side bar. If you do explore it, you are into the work-in-progress-mad-ramblings section and that's on you.
+
+Looks like this 👇🏻 but you get it over there 👈🏻
+![[Pasted image 20240217114619.png]]
+

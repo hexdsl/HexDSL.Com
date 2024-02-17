@@ -5,7 +5,7 @@ tags:
 ---
 
 📅 Date: 2024-02-10
-![[Files/JD1.jpg]]
+![[JD1.jpg]]
 Johnny Decimal sounded great. It sounded like a fantastic way to organise my digital life. I read everything that I could find and had a long hard think about how to implement it. However, it just made my life ever so slightly harder!
 
 # Johnny Decimal is a good system
@@ -26,7 +26,8 @@ These organised folders are referred to as Areas, Categories and IDs (items) dep
 I won't explain more of it here because, if you are interested, you should go and read the website.
 
 There is even a JD Alfred extension to make navigation even easier for macOS/Alfred users
-![[Files/Pasted image 20240210144317.png]]
+![[FPasted image 20240210144317.png]]
+
 [GitHub - bsag/alfred-jd: An Alfred Workflow for the Johnny.Decimal filing system](https://github.com/bsag/alfred-jd)
 
 I was sold. I soaked up all the info that I could, and I implemented the system in my life about a month ago now. I went all-in. Even fiddling with the structure of my Obsidian vault and website to fit in with my new JD life.
