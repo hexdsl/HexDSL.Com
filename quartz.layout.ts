@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "YouTube": "https://www.youtube.com/hexdsl",
       "Discord": "https://discord.hexdsl.com",
-      "RSS": "https://hexdsl.com/intext.xml",
+      "RSS": "https://hexdsl.com/index.xml",
     },
   }),
 }

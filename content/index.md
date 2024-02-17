@@ -36,4 +36,5 @@ If you have read any of the Denouement books that I have written, you may find t
 4. 🥰 Be grateful for all the wonderful things in life, every day!
 
 🛜 I have an [RSS FEED](https://hexdsl.com/index.xml)
+
 Thanks for reading 👋 
