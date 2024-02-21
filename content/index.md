@@ -17,9 +17,11 @@ This website is now powered by [Quartz](https://quartz.jzhao.xyz), which means t
 
 # 📰 Posts & Articles
 You can read my most recent story right here:
+
 ➡️ 📖 [Chronicles of Ned: Space, to breathe](<Writing/ChroniclesOfNed/Space, to Breathe/Start Here.md>) 🚀
 
 If you have read any of the Denouement books that I have written, you may find this interesting:
+
 ➡️ 📖 [Denouement 'wiki'](<Writing/Denouement/Denouement notes.md>)
 
 ⏭️ If you want posts, I got posts. They are in the side-bar over there on the left, also the recent posts are on the right... in the section marked 'Recent' - Which, I feel may be, a little on the nose, but I'm pretty sure you got this. 💋
