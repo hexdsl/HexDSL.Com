@@ -1,3 +1,12 @@
+---
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
+---
+
 **Type**: Planet
 **Controller**: [[../Races and factions/Human (Race)|Human (Race)]] part of Earth/Sol alliance, in their space. 
 **Role in Story:** A single representative from here was sent to a meeting in Denouement short story, week. 

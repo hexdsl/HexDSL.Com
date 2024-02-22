@@ -1,3 +1,11 @@
+---
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
+---
 **Type** - City
 **Location** - [[Earth (Sol)]]
 The capital city of Earth, the country formerly known as England is now just Victoria City. The whole thing.
