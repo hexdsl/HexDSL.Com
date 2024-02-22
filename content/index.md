@@ -1,10 +1,10 @@
 ---
 title: Welcome to HexDSL.com
 draft: false
+date: 2019-08-14
 tags:
   - website
   - index
-Date: 2019-08-14
 ---
 ![HexDSL Banner](WebBanner.jpg)
 
