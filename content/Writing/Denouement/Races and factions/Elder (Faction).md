@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 Elders are races easily identified as those whose native language is [[../Tech/Elder-Tongue (Language)|Elder-Tongue (Language)]] (early modern English) 
@@ -44,5 +47,3 @@ Historically [[Thinker (Race)]] was incredibly quiet about their stewardship of 
 - [[Thinker (Race)]] - expired in D2
 # 🗒️Other Notes
 *There are only 4 Elder races in current writing timeline. As of the ending of [[../Story notes/Denouement 2|Denouement 2]]*
-
-#Plot #lore #race #elder #faction 

@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 ## Type
@@ -28,5 +31,3 @@ None
 - [[../People/Nir Ro-Bon (President)|Nir Ro-Bon (President)]] - Brick
 # 🗒️Other Notes
 **Naming Conventions:** ``[Aaaa] [Aaa]-[Aaa]`` First names are 3-6 letters long. Second names are 3-4 letters then a dash then 3-4 letters
-
-#Plot #brick #race 

@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore/Plotting
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 
 # 💡 Details
@@ -93,4 +96,3 @@ In recent months, though, the *Libby Michaels institute* as extended massive fou
 
 # **🗒️Other Notes**
 
-#Plot #faction #followers 

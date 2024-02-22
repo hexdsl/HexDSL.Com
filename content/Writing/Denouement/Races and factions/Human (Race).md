@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 Considered to be childish and excitable by other Elder race members
@@ -32,4 +35,3 @@ Humans are excellent at understanding other races technology and have become spa
 # **🗒️Other Notes**
 **Naming Conventions:** Boring human shit.
 
-#Plot

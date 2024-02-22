@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: lock
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 Locking system, also known as a NAS 

@@ -1,7 +1,10 @@
 ---
-Class: Place
-Type: Starship
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 **🖼️Description**: 
 A research ship of [[../Races and factions/Human (Race)|Human (Race)]] military. It is a mid-large size cruiser and was designed to research and scan space anomalies and map planets. 
@@ -15,5 +18,3 @@ Penda was also home of doctor [[../People/Joshua Rixon|Joshua Rixon]] who was a 
 Jon was unhappy that [[../People/Joanne Michaels (Jo)|Joanne Michaels (Jo)]] sent such a well equipped scanning ship to 'save him' when she knew that the technology the Thinkers had deployed was too dangerous to be logged and reproduced. 
 
 He was also unimpressed the [[../Races and factions/Human (Race)|Human (Race)]] engineers repeatedly tried to scan [[Thirteen (starship)]], though once it was discovered that Thinkers had control of the ship this was obviously not at [[../People/Joanne Michaels (Jo)|Joanne Michaels (Jo)]] request. 
-
-#place 

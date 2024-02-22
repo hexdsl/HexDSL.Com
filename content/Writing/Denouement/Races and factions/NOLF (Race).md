@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 **Ety:** Non-Organic Life Form. - NOLF
@@ -54,4 +57,3 @@ Each NOLF is a unique species.
 - [[../People/Lilly Michaels|Lilly Michaels]] - Half NOLF
 # 🗒️Other Notes
 **Naming Conventions:** None. Usually they choose a ‘free name’ that has little to do with their designed purpose.
-#Plot #race  #faction #ai 

@@ -1,9 +1,10 @@
 ---
 title: Space, to Breathe (CoN1)
 draft: false
+date: 2024-02-01
 tags:
-  - Writing
-  - Ned
+  - writing
+  - CoN
 ---
 *Some writers finish their project and they KNOW it's a masterpiece. Some of us write Chronicles of Ned and hope no one notices.* 🤣
 

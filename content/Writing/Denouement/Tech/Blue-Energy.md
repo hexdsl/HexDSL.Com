@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 An energy type created a Blue-Field generator. Blue energy fields have the unique property of having a surface area that is resistant at a factor of sixty times more resistance than the energy used to produce it. 

@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Plotting
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 > [!warning] SPOILERS 
 > SPOILERS AHEAD

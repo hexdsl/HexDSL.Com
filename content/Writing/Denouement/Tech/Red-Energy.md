@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of Technology
 Red-Energy is a cousin to [[Blue-Energy]]. It is far less controlled than Blue-Energy but has a larger theoretical power output and by nature of not being the same energy-type it is resistant to different types of energetic attacks. 

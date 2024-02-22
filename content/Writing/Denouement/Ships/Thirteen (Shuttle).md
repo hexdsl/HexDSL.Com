@@ -1,7 +1,10 @@
 ---
-Class: Place
-Type: Shuttle
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 **📜Role in Story**: 
 One of the shuttles from [[Mercia (Starship)]] 
@@ -15,4 +18,3 @@ The shuttle was used for ship to surface transfers and was only equipped with [[
 # **🗒️Other Notes**
 Human pilots did not want to fly the unlucky numbered shuttle. 
 
-#place #starship 

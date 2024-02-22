@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 Large hairy beast type entities that transform into less beast like, smaller humanoids. 
@@ -21,4 +24,3 @@ None, they only use biological technology, of which we are only now learning.
 First appeared in D 2.5 - "Of Gods and Vampires."
 **Naming Conventions:**  ``[A] [A]``
 
-#Plot #warewolf #warewolves #race #young 

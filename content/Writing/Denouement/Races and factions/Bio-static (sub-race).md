@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore 
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 Bio-static life forms have an internal 'Template' which the  body will return to. 
@@ -34,5 +37,3 @@ They were created by [[../People/Aygah|Aygah]] herself and would not have evolve
 
 # 🗒️Other Notes
 Originally it was thought that the only bio-statics were Jon, Kay and Jo. IT was later in [[../Story notes/Denouement 3]] that we meet Lilly. 
-
-#Plot #biology #biostatic

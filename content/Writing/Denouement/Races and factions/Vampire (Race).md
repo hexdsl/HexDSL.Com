@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 In the post event timeline they have been on earth since 1920 and are considered to be trustworthy with great integrity.
@@ -29,4 +32,3 @@ This represents the majority of the race and while is an indication of a less hi
 # 🗒️Other Notes
 **Naming Conventions:** ``[Aa'Aa] [Aaaa]`` first names are 2-3 letters with an Apostrophe then 2-3 letters. The last names tend to be around 2-4 letters long and are 'Punchy' when said aloud.
 
-#Plot

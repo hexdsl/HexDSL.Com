@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 Glass energy is a similar technology to [[Blue-Energy]] but has a different design source ([[../Races and factions/Elf (Race)|Elf (Race)]]) and purpose.

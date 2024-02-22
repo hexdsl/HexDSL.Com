@@ -1,7 +1,10 @@
 ---
-Class: Ship
-Type: Starship
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 **🖼️Description**: 
 Basilica  is a large red starship that is long with a pointed uneven tip. The ship has a large hole running through it which is used for energy acceleration. 
@@ -57,5 +60,3 @@ The bridge has a traditional view-screen at the front and two pilot flight chair
 There are other stations at the rear of the command rail on a raised platform. 
 
 Other than the lack of command seating and physical command computer station, it is relatively standard in layout.
-
-#place 

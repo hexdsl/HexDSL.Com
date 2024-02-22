@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 Young race. Fresh to civilized space 
@@ -24,5 +27,3 @@ None
 - [[../People/Mestaff|Mestaff]] - Only Silverfish character met so far, sadly. 
 # 🗒️Other Notes
 **Naming Conventions:** ``[Aaa]``
-
-#Plot #silverfish #race 

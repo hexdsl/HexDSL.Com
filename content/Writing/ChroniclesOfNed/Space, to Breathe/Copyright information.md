@@ -1,9 +1,9 @@
 ---
 draft: false
+date: 2024-02-01
 tags:
   - writing
   - CoN
-date updated: 2024-02-17 11:22
 ---
 
 **Title:** Chronicles of Ned: Space, to Breathe

@@ -1,3 +1,11 @@
+---
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
+---
 **Type**: small medical office
 **Location**: in the Sol Embassy, [[Victoria City (Earth)]], [[Central (Prime)]] Is in basement of embassy. 
 

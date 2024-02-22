@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 The white cleansing light which is commonly referred to as a 'shower' in its most common use. 

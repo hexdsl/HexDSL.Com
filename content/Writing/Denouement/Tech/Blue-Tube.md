@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 A usage for [[Blue-Energy]], specifially a type of [[Blue-Shield]].
 # 🔧Type of technology

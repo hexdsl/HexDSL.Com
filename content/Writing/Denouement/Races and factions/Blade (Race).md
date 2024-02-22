@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 
 # 💡 Details
@@ -37,5 +40,3 @@ Only a few individuals are classed as Blade sub-species
 - [[../People/Zal|Zal]] Modified human, 'fake blade'
 # 🗒️Other Notes
 **Naming Conventions:** Ethereal sounding names, just one.
-
-#Plot #blade #blades #lore #race

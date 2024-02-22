@@ -1,7 +1,10 @@
 ---
-Class: Place
-Type: Starship
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 **📜Role in Story**: 
 Mercia is a Kingdom Class starship of [[../Places/Earth (Sol)|Earth (Sol)]] and up until more kingdom class ships were built at the start of [[../Story notes/Denouement 3|Denouement 3]] the single most powerful ship in the galaxy.
@@ -30,5 +33,3 @@ Mercia is the very definition of 'overpowered' and when it appears in orbit of a
 - Was involved in the final showdown with [[../People/Zal|Zal's]] mothership at the end of [[../Story notes/Denouement 1|Denouement 1]] 
 - Was involved in the battle of the warp at the end of [[../Story notes/Denouement 2|Denouement 2]]
 # **🗒️Other Notes**
-
-#place #mercia #starship 

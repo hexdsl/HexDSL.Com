@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 [[Elder (Faction)]]
@@ -26,5 +29,3 @@ Living energy based intelligence's who seem to be 'ghosts' inhabiting inanimate 
 # **🗒️Other Notes**
 ## **Naming Conventions:** 
 ``[AaaaaAaaaaaAaaaaa]`` They have long names that have odd capitalization mid way, they usually 'go by' the most easily recognizable 'portion' of their name. Examples AmaCuristioRapsisiVentron may be called Ventron, or Ama by none "Thinkers"
-
-#Plot

@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
 The elf people are in tune with nature, growth and energy. They respect right and personal liberty. 
@@ -19,5 +22,3 @@ To be written. Though it has many inhabited forest and oceanic moons
 
 # **🗒️Other Notes**
 **Naming convention:** ``[Aaaa] of [Place]`` though this has lately dropped out of fashion as they have inhabited other worlds. 
-
-#Plot #elder #elf 

@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: tool
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 A type of  [[Blue-Energy]]  implementation which generates thrust via projecting raw energy outward from the panel emitter. 

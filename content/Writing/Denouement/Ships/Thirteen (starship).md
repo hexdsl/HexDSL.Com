@@ -1,7 +1,10 @@
 ---
-Class: Ship
-Type: Starship
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 **📜Role in Story**: 
 The starship 'Thirteen' first appeared in [[../Story notes/Denouement 2|Denouement 2]] and, like [[Basilica (Starship)]] was a gift from [[../People/Aygah|Aygah]], given in hopes it would support her 'plan' through her heroes and champion. 
@@ -63,4 +66,3 @@ There is a floor panel between the two stations which give access to the AI core
 ## **👤Related To characters**
 - owned by [[../People/Lea Ra-Kay|Lea Ra-Kay]]
 
-#place #starship #Thirteen

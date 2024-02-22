@@ -1,7 +1,10 @@
 ---
-Class: Plot
-Type: Lore
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 💡 Details
  A Warrior race from within the [[Brick (Race)]] Alliance space. They generally think of Bricks as good regents. But are a little resentful of the adoption of their laws.
@@ -22,4 +25,3 @@ Felines come in vastly different colours.
 # **🗒️Other Notes**
 **Naming Conventions:** ``[AAA]`` it is important to remember that their native language is not compatible with Elder ears. The names they use in Elder space are usually self issued and have no legal weight. Their actual names can not be written in Elder.
 
-#Plot #lore #species #race #feline

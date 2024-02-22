@@ -2,6 +2,7 @@
 draft: false
 tags:
   - post
+Date: <% tp.date.now("YYYY-MM-DD", 0) %>
 ---
 <% tp.file.rename(tp.date.now("YYYY-MM-DD",0) + " - Post Title") %>
 

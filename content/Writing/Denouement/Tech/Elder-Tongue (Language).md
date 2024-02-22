@@ -1,7 +1,10 @@
 ---
-Class: tech
-Type: Linguistics
-Status: Used
+draft: false
+date: 2024-01-01
+tags:
+  - writing
+  - Denouement
+  - Denouemeverse
 ---
 # 🔧Type of technology
 **Elder-Tongue language**
