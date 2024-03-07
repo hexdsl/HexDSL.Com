@@ -18,11 +18,12 @@ This website is now powered by [Quartz](https://quartz.jzhao.xyz), which means t
 
 # 📰 Posts & Articles
 > [!tip]+ Newest post
-> [[2024-02-22 - The website is different now]]
+> [[2024-03-07 - Week (D2.5)]]
 
-You can read my most recent story right here:
+You can read my most recent stories right here:
 
 ➡️ 📖 [Chronicles of Ned: Space, to breathe](<Writing/ChroniclesOfNed/Space, to Breathe/Start Here.md>) 🚀
+➡️ 📖 [[Writing/Denouement/D2.5 Week/Start Here|Denouement 2.5 (Week)]] 🪐
 
 If you have read any of the Denouement books that I have written, you may find this interesting:
 
