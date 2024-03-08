@@ -1,5 +1,5 @@
 ---
-title: Space, to Breathe (CoN1)
+title: Denouement 2.5 (Week)
 draft: false
 date: 2024-03-07
 tags:
